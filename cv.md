@@ -9,7 +9,7 @@
 
 ## About Me
 
-I really know what it is to learn somethig every single day. I'm passionate about frontend development because it is important to go with the times. I am reliable and dependable person and often seek new responsobilities. </br>
+I really know what it is to learn somethig every single day. I'm passionate about frontend development because it is important to go with the times. I am reliable and dependable person and often seek new responsobilities.
 
 ## Skills
 
