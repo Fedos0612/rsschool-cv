@@ -35,7 +35,7 @@ alert( result );
 
 - **University:** Nizhniy Novgorog Technical State University, Electrical Engineer
 - **Courses:**
-  - [FreeCodeCamp](https://www.freecodecamp.org/) </br>
+  - [FreeCodeCamp](https://www.freecodecamp.org/)
   - [learn.javascript.com](https://learn.javascript.com)
 
 ## English
