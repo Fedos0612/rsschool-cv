@@ -30,3 +30,18 @@ alert( result );
 ```
 
 ## Experience
+
+## Education
+
+- **University:** Nizhniy Novgorog Technical State University, Electrical Engineer
+- **Courses:**
+  - [FreeCodeCamp](https://www.freecodecamp.org/) </br>
+  - [learn.javascript.com](https://learn.javascript.com)
+
+## English
+
+B (Intermediate)
+
+## German
+
+B (Intermediate)
