@@ -17,3 +17,16 @@ I really know what it is to learn somethig every single day. I'm passionate abou
 - CSS/SASS
 - JavaScript (Basic)
 - Git
+
+## Code Example
+
+```javascript
+function sum(a, b) {
+  return a + b;
+}
+
+let result = sum(1, 2);
+alert( result );
+```
+
+## Experience
